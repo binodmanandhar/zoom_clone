@@ -27,5 +27,9 @@ npx shadcn-ui@latest init
 npx shadcn-ui@latest add button
 ```
 
+
+### Folder structure in app dirc
+1) Use Route groups [link](https://nextjs.org/docs/app/building-your-application/routing/route-groups)
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
