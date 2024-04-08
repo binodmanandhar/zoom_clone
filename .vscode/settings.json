@@ -4,5 +4,6 @@
   "files.autoSave": "off",
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
+  "editor.tabSize": 2,
   "editor.defaultFormatter": "esbenp.prettier-vscode"
 }

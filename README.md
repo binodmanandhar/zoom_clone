@@ -31,6 +31,10 @@ npx shadcn-ui@latest add button
 ```
 
 ```
+npx shadcn-ui@latest add sheet
+```
+
+```
 Main layout.tsx has bg-dark-2 class. The color is added in tailwind.config.ts in line number: 24
 ```
 
