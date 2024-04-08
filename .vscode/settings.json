@@ -1,6 +1,7 @@
 {
   "window.zoomLevel": 1,
-  "files.autoSave": "afterDelay",
+  // "files.autoSave": "afterDelay",
+  "files.autoSave": "off",
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode"
