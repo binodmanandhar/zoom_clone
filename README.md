@@ -23,5 +23,9 @@ npx create-next-app@latest my-app --typescript --tailwind --eslint
 npx shadcn-ui@latest init
 ```
 
+```
+npx shadcn-ui@latest add button
+```
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
