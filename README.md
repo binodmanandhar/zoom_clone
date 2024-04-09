@@ -34,6 +34,12 @@ npx shadcn-ui@latest add button
 npx shadcn-ui@latest add sheet
 ```
 
+### for Authentication and Authorization [link](https://clerk.com/)
+
+```
+npm install @clerk/next
+```
+
 ```
 Main layout.tsx has bg-dark-2 class. The color is added in tailwind.config.ts in line number: 24
 ```
