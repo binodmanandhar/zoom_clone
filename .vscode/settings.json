@@ -5,5 +5,7 @@
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
   "editor.tabSize": 2,
+  "editor.wordWrap": "wordWrapColumn",
+  "editor.wordWrapColumn": 140,
   "editor.defaultFormatter": "esbenp.prettier-vscode"
 }

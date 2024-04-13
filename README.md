@@ -30,8 +30,16 @@ npx shadcn-ui@latest init
 npx shadcn-ui@latest add button
 ```
 
+#### slide from top left right button used for hamburger menu
+
 ```
 npx shadcn-ui@latest add sheet
+```
+
+#### For modal
+
+```npx shadcn-ui@latest add dialog
+
 ```
 
 ### for Authentication and Authorization [link](https://clerk.com/)
@@ -39,6 +47,10 @@ npx shadcn-ui@latest add sheet
 ```
 npm install @clerk/next
 ```
+
+### For video steam
+
+Open link [link](https://getstream.io)
 
 ```
 Main layout.tsx has bg-dark-2 class. The color is added in tailwind.config.ts in line number: 24

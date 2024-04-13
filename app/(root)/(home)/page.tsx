@@ -1,4 +1,4 @@
-import React from "react";
+import MeetingtypeList from "@/components/MeetingtypeList";
 
 const Home = () => {
   const now = new Date();
@@ -17,11 +17,15 @@ const Home = () => {
             Upcoming Meeting at: 12:30 PM
           </h2>
           <div className="flex flex-col gap-2">
-            <h1 className="text-4xl font-extrabold lg:text-7xl">{date}</h1>
+            <h1 className="text-2xl font-extrabold sm:text-3xl md:text-4xl lg:text-5xl">
+              {date}
+            </h1>
             <p className="text-lg font-medium text-sky-1 lg:text-2xl">{time}</p>
           </div>
         </div>
       </div>
+
+      <MeetingtypeList />
     </section>
   );
 };
